@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-ecommerce/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/react-ecommerce/static/js/main.6669b95d.chunk.js",
+    "main.js.map": "/react-ecommerce/static/js/main.6669b95d.chunk.js.map",
+    "runtime-main.js": "/react-ecommerce/static/js/runtime-main.3eb045eb.js",
+    "runtime-main.js.map": "/react-ecommerce/static/js/runtime-main.3eb045eb.js.map",
+    "static/js/2.4132db81.chunk.js": "/react-ecommerce/static/js/2.4132db81.chunk.js",
+    "static/js/2.4132db81.chunk.js.map": "/react-ecommerce/static/js/2.4132db81.chunk.js.map",
+    "index.html": "/react-ecommerce/index.html",
+    "precache-manifest.d9cfb5d5a0df99501f9f8521109272ee.js": "/react-ecommerce/precache-manifest.d9cfb5d5a0df99501f9f8521109272ee.js",
+    "service-worker.js": "/react-ecommerce/service-worker.js",
+    "static/css/main.27fd15f6.chunk.css.map": "/react-ecommerce/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.4132db81.chunk.js.LICENSE": "/react-ecommerce/static/js/2.4132db81.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3eb045eb.js",
+    "static/js/2.4132db81.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.6669b95d.chunk.js"
+  ]
+}
